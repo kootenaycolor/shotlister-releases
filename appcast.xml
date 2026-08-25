@@ -4,5 +4,33 @@
     <title>Shotlister Studio</title>
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Mon, 24 Aug 2026 18:01:43 -0700</pubDate>
+      <sparkle:version>381</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;A glassy icon, made the way Apple makes them&lt;/li&gt;
+&lt;li&gt;Say where releasing lives, and who has to do what next&lt;/li&gt;
+&lt;li&gt;Shotlister installs on his other Mac, and keeps itself up to date&lt;/li&gt;
+&lt;li&gt;Preview shows the real, paginated PDF instead of a cropped guess&lt;/li&gt;
+&lt;li&gt;Fix the PDF export preview never updating&lt;/li&gt;
+&lt;li&gt;Scalable text, his own columns, a real page preview, and a design pass&lt;/li&gt;
+&lt;li&gt;Fix three real bugs his own first PDF export found&lt;/li&gt;
+&lt;li&gt;Scene PDF Export, and a share button that draws one glyph&lt;/li&gt;
+&lt;li&gt;A dropdown that pointed at a sheet by the wrong name&lt;/li&gt;
+&lt;li&gt;A workbook that already knew his template finally has a door into the app&lt;/li&gt;
+&lt;li&gt;A picture wall you can arrange, and one set of rules for every gallery&lt;/li&gt;
+&lt;li&gt;Captions, tags, and links from the board's own side — and a real crash fixed&lt;/li&gt;
+&lt;li&gt;A wall you can arrange: sizes, both doors, and a search that searches&lt;/li&gt;
+&lt;li&gt;A picture can be called two things, and picked up&lt;/li&gt;
+&lt;li&gt;What the seven cost, and the hour main spent not building&lt;/li&gt;
+&lt;li&gt;A day can be named, dated, moved and taken away&lt;/li&gt;
+&lt;li&gt;What the camera work cost, and two holes in the harness&lt;/li&gt;
+&lt;li&gt;A camera can be renamed and taken away, not only added&lt;/li&gt;
+&lt;li&gt;Command N opens a window on the film you are in&lt;/li&gt;
+&lt;li&gt;Filter and Sort get a box instead of a sleeve&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.2.0/Shotlister-Studio-0.2.0.zip" length="7410643" type="application/octet-stream" sparkle:edSignature="KlpLhGIo9BJ1QPRe0mgTROrjBGX/DnmQ4ErNAAET+E3tg7ukktIIWOcOXPpxtYkeGiKso67Qyjg2kyUDqplKBg==" />
+    </item>
   </channel>
 </rss>
