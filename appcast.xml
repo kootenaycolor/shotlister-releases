@@ -5,6 +5,135 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.3.0</title>
+      <pubDate>Tue, 01 Sep 2026 08:44:02 -0700</pubDate>
+      <sparkle:version>500</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Four at a time: the hosted MCP could not open a single film&lt;/li&gt;
+&lt;li&gt;The viewer wears the app's table, and clips move&lt;/li&gt;
+&lt;li&gt;Sign-in is wired up, and a link is remembered after it is used&lt;/li&gt;
+&lt;li&gt;The MCP, on an address any AI can reach&lt;/li&gt;
+&lt;li&gt;The printed page draws a frame the way the app does, and a size to draw it at&lt;/li&gt;
+&lt;li&gt;The viewer, written down&lt;/li&gt;
+&lt;li&gt;The viewer: all four modes, three views, and the script beside the list&lt;/li&gt;
+&lt;li&gt;An invite link, so he never opens Cloudflare again&lt;/li&gt;
+&lt;li&gt;Both of his addresses are him&lt;/li&gt;
+&lt;li&gt;A double-clicked app has no Rust on its path&lt;/li&gt;
+&lt;li&gt;The hub's front door: who you are, what you may do, and one gate&lt;/li&gt;
+&lt;li&gt;Four answers, and the script put back where the app keeps it&lt;/li&gt;
+&lt;li&gt;The hub, drawn in the app's own chrome&lt;/li&gt;
+&lt;li&gt;A clip on the printed page shows four moments, not one frozen frame&lt;/li&gt;
+&lt;li&gt;One description of a film, so the Mac and the browser cannot drift apart&lt;/li&gt;
+&lt;li&gt;The engine reads a film in a browser, exactly as the Mac reads it&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: push, and the four things that only show up deployed&lt;/li&gt;
+&lt;li&gt;Push while the app is open: the relay tells devices instead of them asking&lt;/li&gt;
+&lt;li&gt;A clip added on the phone had no poster, so it drew as nothing&lt;/li&gt;
+&lt;li&gt;The sync button turns while it works, says when it last ran, and keeps a history&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: one list of films, and the door that has to wait&lt;/li&gt;
+&lt;li&gt;The Projects screen shows your films, not where they came from&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: backups, and the two bash traps that hid in them&lt;/li&gt;
+&lt;li&gt;Backups: a copy of last Tuesday, because sync is not backup&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: fetching a film from the relay, and what the halfway house cost&lt;/li&gt;
+&lt;li&gt;Open a film from the relay — and drop the halfway house&lt;/li&gt;
+&lt;li&gt;The pictures leave iCloud's reach: media/ becomes media.nosync/&lt;/li&gt;
+&lt;li&gt;STATUS: grep for the symbol the compiler emits, not the one the source says&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: the list syncs itself, and what signing properly costs&lt;/li&gt;
+&lt;li&gt;The list keeps itself level; the iCloud tick comes off&lt;/li&gt;
+&lt;li&gt;Sign a plain build with his own Developer ID, so the Keychain stops asking&lt;/li&gt;
+&lt;li&gt;The app starts again: the Keychain is not something a view may ask&lt;/li&gt;
+&lt;li&gt;The detection dials were not it either, and the outbox said they were&lt;/li&gt;
+&lt;li&gt;Outbox: how scene matching works now, and the two ways to get it wrong&lt;/li&gt;
+&lt;li&gt;A draft that renumbers from the top no longer strands his shots&lt;/li&gt;
+&lt;li&gt;Outbox: the duplication fix, and what Ref 488 actually holds up to&lt;/li&gt;
+&lt;li&gt;A duplicated shot owns its own picture&lt;/li&gt;
+&lt;li&gt;Stop the list chaining its scroll without wrecking SwiftUI's view, and let a check run&lt;/li&gt;
+&lt;li&gt;The table stops reading other windows' events, and a dropdown keeps its keys&lt;/li&gt;
+&lt;li&gt;The phone syncs with his relay, and both apps stop aiming at the blocked address&lt;/li&gt;
+&lt;li&gt;Hand over: sync is done, and the Ref number in the notes was wrong&lt;/li&gt;
+&lt;li&gt;The relay can give bytes back, and stops claiming partial answers&lt;/li&gt;
+&lt;li&gt;The brief and the outbox: no workbook on the phone, and the tap-area trap&lt;/li&gt;
+&lt;li&gt;A tile opens its own board, and the spreadsheet stays on the desktop&lt;/li&gt;
+&lt;li&gt;The Mac app has a Sync button, and it works&lt;/li&gt;
+&lt;li&gt;The relay answers to a name he owns&lt;/li&gt;
+&lt;li&gt;A new address the Mac cannot see yet is not a failure&lt;/li&gt;
+&lt;li&gt;Say "R2 is not switched on" rather than repeating an API error&lt;/li&gt;
+&lt;li&gt;Setting up sync read the exit code instead of the answer&lt;/li&gt;
+&lt;li&gt;His own sync server, and the Rust that knows what to send it&lt;/li&gt;
+&lt;li&gt;A new mark on the icon, and the phone gets one at last&lt;/li&gt;
+&lt;li&gt;The frame, not the photograph — and a wider arrow&lt;/li&gt;
+&lt;li&gt;The brief and the outbox catch up with the phone's export&lt;/li&gt;
+&lt;li&gt;The phone exports what the Mac exports&lt;/li&gt;
+&lt;li&gt;An arrow on a photograph, the way a board has always drawn one&lt;/li&gt;
+&lt;li&gt;The studio outbox: one door, and pass the framing through it&lt;/li&gt;
+&lt;li&gt;The Mac frames a picture too&lt;/li&gt;
+&lt;li&gt;The phone's Drive switch moves into the ⋯, where a board already kept its own&lt;/li&gt;
+&lt;li&gt;A place and a board each get a switch, and a board's wall reaches Drive&lt;/li&gt;
+&lt;li&gt;The crop's Mac half, written up for the thread that owns those files&lt;/li&gt;
+&lt;li&gt;A picture can be told which part of it to keep&lt;/li&gt;
+&lt;li&gt;The brief catches up with the phone's two redesigns&lt;/li&gt;
+&lt;li&gt;Mood boards lead with their pictures, and the schedule schedules&lt;/li&gt;
+&lt;li&gt;The four-times cost of a mode change is the table, and keeping it alive is wrong&lt;/li&gt;
+&lt;li&gt;The brief and the outbox catch up with the phone's media viewer&lt;/li&gt;
+&lt;li&gt;The phone's media viewer catches up with the Mac's&lt;/li&gt;
+&lt;li&gt;Count which state republishes the window, and drive the motion he was making&lt;/li&gt;
+&lt;li&gt;The brief, the phase doc and the phone's outbox catch up with the phone's four tabs&lt;/li&gt;
+&lt;li&gt;The phone has a Schedule&lt;/li&gt;
+&lt;li&gt;A scene has a page of its own on the phone&lt;/li&gt;
+&lt;li&gt;The phone's Mood boards tab is a real tab now&lt;/li&gt;
+&lt;li&gt;Claude rebuilds, and builds go to one place&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the synopsis button&lt;/li&gt;
+&lt;li&gt;Synopsis takes the Frames switch's place on the board, and wears the app's own button&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the References panel&lt;/li&gt;
+&lt;li&gt;A linked mood board hangs its own wall in the References panel&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the row layout&lt;/li&gt;
+&lt;li&gt;A row measures its cells once and places them, instead of negotiating a height&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the shared sidebar&lt;/li&gt;
+&lt;li&gt;The schedule uses the app's own scene list, and a scene can come off a day&lt;/li&gt;
+&lt;li&gt;Rebuild installs into Applications, and a long run stops hauling Finder over him&lt;/li&gt;
+&lt;li&gt;A stopwatch for the shot list, and a scroll door that had never scrolled&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the board's one mark&lt;/li&gt;
+&lt;li&gt;One mark per scene on the board, no grey bar, and a dark that is not flat black&lt;/li&gt;
+&lt;li&gt;Double-clicking a photograph on a wall never worked, and nothing could have noticed&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the calendar&lt;/li&gt;
+&lt;li&gt;Console doors onto the calendar, and fourteen checks through them&lt;/li&gt;
+&lt;li&gt;The schedule wears the glass, marks its times of day, and grows a calendar&lt;/li&gt;
+&lt;li&gt;A day can be born wearing its date, days can sort by date, and an undone creation really goes away&lt;/li&gt;
+&lt;li&gt;The pop-out opened behind the picker sheet, which looks exactly like nothing happening&lt;/li&gt;
+&lt;li&gt;Double-click a picture in the picker to see it, and ⌫ on a shot's picture asks first&lt;/li&gt;
+&lt;li&gt;STATUS and the outbox catch up with the six commits&lt;/li&gt;
+&lt;li&gt;The references board joins the one keyboard, and keeps its own idea of "open"&lt;/li&gt;
+&lt;li&gt;The arrow keys belong to the wall you are working, not to wherever the mouse is&lt;/li&gt;
+&lt;li&gt;One chrome for the three pop-outs, so they stop reading as three programs&lt;/li&gt;
+&lt;li&gt;A pinned pop-out stops being overwritten, and one builder decides what its bar says&lt;/li&gt;
+&lt;li&gt;Believe the engine about what a file is, and stop asking for pictures that are not there&lt;/li&gt;
+&lt;li&gt;An audit of every picture surface, and two checks that were never telling the truth&lt;/li&gt;
+&lt;li&gt;STATUS: trim has to reach the thumbnails, and a playhead alone cannot prove one&lt;/li&gt;
+&lt;li&gt;A trimmed clip plays its trimmed range everywhere, not just in the viewer&lt;/li&gt;
+&lt;li&gt;STATUS: the trim bar's readiness race, and that a silent bail-out reads as a dead button&lt;/li&gt;
+&lt;li&gt;The scissors opens the trim bar — it was asking one beat too early&lt;/li&gt;
+&lt;li&gt;STATUS: clips are AVKit's job now — the player, the trim bar, and how to check them&lt;/li&gt;
+&lt;li&gt;Clips play and trim with AVKit's own controls, not ours&lt;/li&gt;
+&lt;li&gt;STATUS: three traps from the clip player — state during a view update, window-background drag, and proving playback&lt;/li&gt;
+&lt;li&gt;Play actually plays, and a trimmed clip opens at its in point&lt;/li&gt;
+&lt;li&gt;One control for a clip, not two — and trimming shows you the frame&lt;/li&gt;
+&lt;li&gt;A still for a clip: pick a poster frame by hand, and export finally asks for it&lt;/li&gt;
+&lt;li&gt;Spreadsheet rows grow for long text instead of clipping it, wider text columns, Order retired&lt;/li&gt;
+&lt;li&gt;Video clips trim non-destructively, from the media viewer&lt;/li&gt;
+&lt;li&gt;STATUS: trim reaches both places it plays, not just the viewer&lt;/li&gt;
+&lt;li&gt;Trim reaches a shot's own frames window too&lt;/li&gt;
+&lt;li&gt;Video clips trim non-destructively, from the media viewer&lt;/li&gt;
+&lt;li&gt;Atomic spreadsheet writes, a Days picker for per-day PDF export, and Storyboard's scene headers&lt;/li&gt;
+&lt;li&gt;The copy law gets a reader that runs itself, not just a paragraph&lt;/li&gt;
+&lt;li&gt;Spreadsheet columns mirror the shot list exactly, Ranges mirrors Project Settings' Lists&lt;/li&gt;
+&lt;li&gt;Export menu goes matter-of-fact, per-day folds into the PDF picker, workbook gets a real on/off switch&lt;/li&gt;
+&lt;li&gt;The copy law named two apps and let the third one hide&lt;/li&gt;
+&lt;li&gt;Finish the export lane: live workbook, per-day folder, whole-film PDF&lt;/li&gt;
+&lt;li&gt;0.2.0 shipped — say so where the next thread will look&lt;/li&gt;
+&lt;li&gt;Fix two bugs found by actually running a release, not just reading it&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.3.0/Shotlister-Studio-0.3.0.zip" length="7556308" type="application/octet-stream" sparkle:edSignature="PkiX+r+osY/abVZz8oKKWcz8LIkS7OruV2L9T483qfKOiVkwwuHMH7wNaG5xcXIkJfvDH5Ukp0t/KOzluVqBAA==" />
+    </item>
+    <item>
       <title>0.2.0</title>
       <pubDate>Mon, 24 Aug 2026 18:01:43 -0700</pubDate>
       <sparkle:version>381</sparkle:version>
