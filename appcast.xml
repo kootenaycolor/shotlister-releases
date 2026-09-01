@@ -5,6 +5,20 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.3.1</title>
+      <pubDate>Tue, 01 Sep 2026 09:31:06 -0700</pubDate>
+      <sparkle:version>508</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Sync can be set up from inside the Mac app&lt;/li&gt;
+&lt;li&gt;A clip in the list is a picture until you look at it&lt;/li&gt;
+&lt;li&gt;Release Shotlister asks which version to put out&lt;/li&gt;
+&lt;li&gt;Nothing here is for the open web&lt;/li&gt;
+&lt;li&gt;Search and sort, through the engine rather than in the page&lt;/li&gt;
+&lt;li&gt;Shotlister Studio 0.3.0 is out&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.3.1/Shotlister-Studio-0.3.1.zip" length="7585136" type="application/octet-stream" sparkle:edSignature="zGIkOUCGCq89Pujaf4NbsDDl5gowoik/eXFCTV3brVZ7mYdd4ouBULtzF96hXT7KdDK5CwiL60pWPEIvzTpSAQ==" />
+    </item>
+    <item>
       <title>0.3.0</title>
       <pubDate>Tue, 01 Sep 2026 08:44:02 -0700</pubDate>
       <sparkle:version>500</sparkle:version>
