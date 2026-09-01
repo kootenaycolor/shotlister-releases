@@ -5,6 +5,38 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.3.2</title>
+      <pubDate>Tue, 01 Sep 2026 13:42:56 -0700</pubDate>
+      <sparkle:version>532</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Save point for three other threads' work, none of it mine&lt;/li&gt;
+&lt;li&gt;The export test pinned a number the page is allowed to move&lt;/li&gt;
+&lt;li&gt;And mcp did not compile either, for the same one reason&lt;/li&gt;
+&lt;li&gt;main did not build the browser engine, and nothing on that thread runs it&lt;/li&gt;
+&lt;li&gt;The portal's stills wear the app's marks, and every view cuts them to the film&lt;/li&gt;
+&lt;li&gt;"Did that do anything?" now has an answer other than going to look&lt;/li&gt;
+&lt;li&gt;Notion answers every database with invalid_request_url, and it is not the token&lt;/li&gt;
+&lt;li&gt;A row in the portal's table is as wide as the columns, not the window&lt;/li&gt;
+&lt;li&gt;The token comes off the clipboard, and the app says whether it worked&lt;/li&gt;
+&lt;li&gt;Notion renamed all of this, so the app was giving clicks that do not exist&lt;/li&gt;
+&lt;li&gt;The document is pages now, and the export is what you saw&lt;/li&gt;
+&lt;li&gt;STATUS carries the spec sheet, the photograph and the update app&lt;/li&gt;
+&lt;li&gt;Update the Portal, in one double-click&lt;/li&gt;
+&lt;li&gt;The ratio is a fact, not a caption&lt;/li&gt;
+&lt;li&gt;The camera spec sheet, and a place to set the film's photograph&lt;/li&gt;
+&lt;li&gt;A film has two ids, and writing under the wrong one invents a film&lt;/li&gt;
+&lt;li&gt;The hero was a wall, and a film with no card said "undefined"&lt;/li&gt;
+&lt;li&gt;A film with no card still says what it is made of&lt;/li&gt;
+&lt;li&gt;A film has a front of house, and Claude can set it from his Notion&lt;/li&gt;
+&lt;li&gt;Unlisted links, on a host with no sign-in in front of it&lt;/li&gt;
+&lt;li&gt;The crop is honoured, the sidebar has a button, and the two picture screens are master and detail&lt;/li&gt;
+&lt;li&gt;Before the shot list, a room that says somebody was expected&lt;/li&gt;
+&lt;li&gt;The three views drawn from the app, not from memory&lt;/li&gt;
+&lt;li&gt;Shotlister Studio 0.3.1 is out&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.3.2/Shotlister-Studio-0.3.2.zip" length="7624938" type="application/octet-stream" sparkle:edSignature="szxVcPW8b+1ofTYBLXGttoqtpTFQHySiRtAwgKXZbfz3z4wVUJY0WZdxoPRk0O6Eg2JpUuGC7TRI7WDhRddTCQ==" />
+    </item>
+    <item>
       <title>0.3.1</title>
       <pubDate>Tue, 01 Sep 2026 09:31:06 -0700</pubDate>
       <sparkle:version>508</sparkle:version>
