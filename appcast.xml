@@ -5,6 +5,26 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.4.1</title>
+      <pubDate>Tue, 15 Sep 2026 14:21:08 -0700</pubDate>
+      <sparkle:version>882</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Relay only: the films live in Documents, not iCloud Drive&lt;/li&gt;
+&lt;li&gt;Merge branch 'claude/laughing-lumiere-f89789'&lt;/li&gt;
+&lt;li&gt;Five doors for the Projects Console: a film made and linked in one run, a director set, a page taken down, a link and the pages switched by token, a film backed up and restored by name&lt;/li&gt;
+&lt;li&gt;The share button is the same control as its neighbours, and the panel toggle stands at the edge it opens&lt;/li&gt;
+&lt;li&gt;The lens column is wide enough for a lens's whole name&lt;/li&gt;
+&lt;li&gt;Sidebar rows are 30 high again, and a floating panel casts no shadow&lt;/li&gt;
+&lt;li&gt;The portal's table: a chip column is as wide as its chips, and the type has a size&lt;/li&gt;
+&lt;li&gt;The left sidebar floats like the right one, and a picked row is a quiet fill&lt;/li&gt;
+&lt;li&gt;The outbox: the portal's softer look is live, and the labs fold stands&lt;/li&gt;
+&lt;li&gt;The rig prints addresses that cannot carry a stale link cookie&lt;/li&gt;
+&lt;li&gt;The battery and the rig take their wrangler with them when they end&lt;/li&gt;
+&lt;li&gt;Shotlister Studio 0.4.0 is out&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.4.1/Shotlister-Studio-0.4.1.zip" length="8190501" type="application/octet-stream" sparkle:edSignature="hSiIGQNgpwfhq0DljG5emUqCX3ezWGO3lM0dR9NR20B0h5zhkJMbChCpS3c3Tprsz43Ol9GKEJ3KSxpp9/tkBA==" />
+    </item>
+    <item>
       <title>0.4.0</title>
       <pubDate>Tue, 15 Sep 2026 10:27:44 -0700</pubDate>
       <sparkle:version>869</sparkle:version>
