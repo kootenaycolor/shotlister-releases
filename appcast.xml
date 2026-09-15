@@ -5,6 +5,36 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.4.0</title>
+      <pubDate>Tue, 15 Sep 2026 10:27:44 -0700</pubDate>
+      <sparkle:version>869</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;The brief and the outbox: the portal is green and dark all the way through, and a merge trap&lt;/li&gt;
+&lt;li&gt;Labs folds into main, and the portal is seamless page to page&lt;/li&gt;
+&lt;li&gt;The portal speaks the softer look: chips by column, counts as text, one button shape&lt;/li&gt;
+&lt;li&gt;A film is a film whether or not Finder hid its folder, and a click opens it&lt;/li&gt;
+&lt;li&gt;The softer look: a grammar for the small parts and one anatomy for every sheet&lt;/li&gt;
+&lt;li&gt;A section is a label on a run of scenes, never forced on one&lt;/li&gt;
+&lt;li&gt;Sections in the list and the table, and one Paste Script door for any script&lt;/li&gt;
+&lt;li&gt;Shotlister Labs: a commercial kind of project&lt;/li&gt;
+&lt;li&gt;The softer look: no field-type glyphs anywhere&lt;/li&gt;
+&lt;li&gt;The softer look: Lens is a chip like every other list&lt;/li&gt;
+&lt;li&gt;The softer look: his four comments, and every panel measured for spill&lt;/li&gt;
+&lt;li&gt;The softer look, fourth pass: one anatomy for every sheet&lt;/li&gt;
+&lt;li&gt;The softer look, third pass: the grammar reaches every pop-out&lt;/li&gt;
+&lt;li&gt;The softer look, second pass: the palette stays, the small parts get a grammar&lt;/li&gt;
+&lt;li&gt;A softer look, argued in a mockup: warm greys, no black pill, rounded numerals&lt;/li&gt;
+&lt;li&gt;The standing brief says a Labs fork exists&lt;/li&gt;
+&lt;li&gt;The commercial mockup, after his first look: no cover photo, one Document page&lt;/li&gt;
+&lt;li&gt;A commercial kind of project, argued out in a mockup&lt;/li&gt;
+&lt;li&gt;A film carries its own icon and colour, so every device wears them&lt;/li&gt;
+&lt;li&gt;The phone's outbox says the address hole is closed and Project Settings landed&lt;/li&gt;
+&lt;li&gt;The phone has Project Settings: the film's facts, its frame, and every list&lt;/li&gt;
+&lt;li&gt;Shotlister Studio 0.3.3 is out&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.4.0/Shotlister-Studio-0.4.0.zip" length="8188080" type="application/octet-stream" sparkle:edSignature="A2dvKeoDgxY+7dRCIxLolLdwFeiLFb7msmj3tl2b5xorzxYOnhTHy5HyQP8SaenYYINCKPMMAgfD0qZWzkktAw==" />
+    </item>
+    <item>
       <title>0.3.3</title>
       <pubDate>Fri, 11 Sep 2026 16:33:30 -0700</pubDate>
       <sparkle:version>848</sparkle:version>
