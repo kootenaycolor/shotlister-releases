@@ -5,6 +5,17 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.4.4</title>
+      <pubDate>Wed, 16 Sep 2026 09:17:58 -0700</pubDate>
+      <sparkle:version>897</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;STATUS and outbox: what travels, and the blocked 0.4.4&lt;/li&gt;
+&lt;li&gt;Release 0.4.4&lt;/li&gt;
+&lt;li&gt;Scans and papers reach every device: the Mac reads them from the film, and a pinned paper is registered like a scan&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.4.4/Shotlister-Studio-0.4.4.zip" length="8250836" type="application/octet-stream" sparkle:edSignature="5JXYpXxG6wqqquSFeSFI6/mVXOyNdbekkKmNZC9tZPDlMb8hsolXHqN23Fvdihncsmx17SIhRPXhLQz/jpWNCA==" />
+    </item>
+    <item>
       <title>0.4.3</title>
       <pubDate>Tue, 15 Sep 2026 21:11:43 -0700</pubDate>
       <sparkle:version>894</sparkle:version>
