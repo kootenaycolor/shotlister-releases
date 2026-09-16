@@ -5,6 +5,55 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.5.0</title>
+      <pubDate>Wed, 16 Sep 2026 15:27:53 -0700</pubDate>
+      <sparkle:version>938</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Ignore the .claude folder: worktrees and session files live there, not the repo's own&lt;/li&gt;
+&lt;li&gt;Merge branch 'claude/zealous-tereshkova-507442'&lt;/li&gt;
+&lt;li&gt;STATUS and the phone outbox: docked preview, flat PDF, spreadsheet off&lt;/li&gt;
+&lt;li&gt;A flat PDF or an editable one, on the Mac and the phone; the spreadsheet is off by default&lt;/li&gt;
+&lt;li&gt;STATUS and the hub outbox: the portal-without-film work is on main, waiting on the deploy&lt;/li&gt;
+&lt;li&gt;The carry check reads the heading the way the one-shape rail now draws it&lt;/li&gt;
+&lt;li&gt;Merge branch 'claude/portal-without-film'&lt;/li&gt;
+&lt;li&gt;A film that arrives after its portal takes the portal with it — the pages move across and merge in&lt;/li&gt;
+&lt;li&gt;One rail, one shape: the portal's sidebar stops shifting between pages, and its rows slide&lt;/li&gt;
+&lt;li&gt;STATUS and the hub outbox: a portal with no film, on a branch until hub/ is free&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into claude/portal-without-film&lt;/li&gt;
+&lt;li&gt;A project can have a web portal with no Shotlister film behind it, made from the console&lt;/li&gt;
+&lt;li&gt;STATUS: every portal page wears the film; battery 534&lt;/li&gt;
+&lt;li&gt;Every page under a film wears the film's own mark, card or no card&lt;/li&gt;
+&lt;li&gt;The phone's export preview stays on screen while the page's controls are used&lt;/li&gt;
+&lt;li&gt;The password door on a shared link wears the film's mark and colour&lt;/li&gt;
+&lt;li&gt;Outbox: Ref 1046 measured and fixed&lt;/li&gt;
+&lt;li&gt;The phone makes a clip's strips when the film opens, not when the export does&lt;/li&gt;
+&lt;li&gt;Outbox: the three rows by number&lt;/li&gt;
+&lt;li&gt;STATUS and the phone outbox: the Export page is the Mac's window now&lt;/li&gt;
+&lt;li&gt;The phone's Export page catches up with the Mac's window: four pages, per day, spreadsheet, set-ups&lt;/li&gt;
+&lt;li&gt;A phone still watching the old iCloud folder is one tap from its own&lt;/li&gt;
+&lt;li&gt;Switch project without a question, and the Projects list names the folder it is showing&lt;/li&gt;
+&lt;li&gt;A way out of "Couldn't open this project", and a film the relay forgot is asked about one at a time&lt;/li&gt;
+&lt;li&gt;One Projects list on every device: archive, delete and put back follow a film by sync, never asked twice&lt;/li&gt;
+&lt;li&gt;The phone respects a film archived or deleted on the Mac, and can archive or delete one itself&lt;/li&gt;
+&lt;li&gt;Crossed out means got it: the word is Shot, not Cut, everywhere&lt;/li&gt;
+&lt;li&gt;The phone's shoot day: shots in running order, tap to strike, drag to reorder; the relay's films in the Projects list; sync in the ⋯ menu&lt;/li&gt;
+&lt;li&gt;STATUS: relay and hub at 9a63c4e, deployed with the button&lt;/li&gt;
+&lt;li&gt;Set Up the Hub finds the relay token by its account name&lt;/li&gt;
+&lt;li&gt;STATUS: the deploy branch is folded into main, not yet deployed&lt;/li&gt;
+&lt;li&gt;README: Deploy Shotlister in the double-click table&lt;/li&gt;
+&lt;li&gt;A saved state per film, so the hub replays only what is new&lt;/li&gt;
+&lt;li&gt;One copy of the relay carrying code in shared/, instead of Mac and phone twins&lt;/li&gt;
+&lt;li&gt;STATUS: the relay's device tokens and fold record, and the battery counts&lt;/li&gt;
+&lt;li&gt;The relay honours a fold record: a device's retired logs stop coming back&lt;/li&gt;
+&lt;li&gt;A token per device on the relay, minted and revoked with the master password&lt;/li&gt;
+&lt;li&gt;The portal keeps a film's card current on its own; the refresh button is for Notion words&lt;/li&gt;
+&lt;li&gt;The bucket's file layout named in one place, read by relay, hub and refresh alike&lt;/li&gt;
+&lt;li&gt;One Deploy button for relay and hub, and each worker says which commit it is running&lt;/li&gt;
+&lt;li&gt;STATUS: 0.4.4 is out&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.5.0/Shotlister-Studio-0.5.0.zip" length="8312652" type="application/octet-stream" sparkle:edSignature="r1JMV/f9wbyNZCLDCJij2QG7lxcvTPlCeCIsJUWQWhyCZ2zXLRJ8+VU9iuIug2VEX0850is5i+I83XG/ZOkXDw==" />
+    </item>
+    <item>
       <title>0.4.4</title>
       <pubDate>Wed, 16 Sep 2026 09:17:58 -0700</pubDate>
       <sparkle:version>897</sparkle:version>
