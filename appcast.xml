@@ -5,6 +5,27 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.5.1</title>
+      <pubDate>Fri, 18 Sep 2026 10:08:56 -0700</pubDate>
+      <sparkle:version>951</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;0.5.1&lt;/li&gt;
+&lt;li&gt;STATUS and outbox: build 949, the script trap, two blank films off the relay&lt;/li&gt;
+&lt;li&gt;A script nobody numbered is in the script too&lt;/li&gt;
+&lt;li&gt;Outbox: Lookalikes is cleaned up, and a phantom RHO found on the way&lt;/li&gt;
+&lt;li&gt;STATUS and an outbox for the bridge&lt;/li&gt;
+&lt;li&gt;The bridge cannot make a place he already has, whatever else goes wrong&lt;/li&gt;
+&lt;li&gt;Three faults in the Drive bridge that made a mess of Lookalikes&lt;/li&gt;
+&lt;li&gt;STATUS: relay and hub live at 2a4bcbd&lt;/li&gt;
+&lt;li&gt;A sweep of the portal for faults of the same shape: three more found and fixed&lt;/li&gt;
+&lt;li&gt;STATUS: the page is not the first .fh2; battery 563&lt;/li&gt;
+&lt;li&gt;A record row pressed from a page reached through the app lands on the page, not inside the hidden app&lt;/li&gt;
+&lt;li&gt;Outbox: everything out — phone branch folded, portal deployed, iPhone installed, 0.5.0 released&lt;/li&gt;
+&lt;li&gt;Release 0.5.0&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.5.1/Shotlister-Studio-0.5.1.zip" length="8301369" type="application/octet-stream" sparkle:edSignature="Ffobfoz2RF37aRCWhhjl5gfolWXLIwjudwomSd3Aedy9LjEsxvOVk+7EEPbaNYIh8z88ESwQePkgw6Il5xUSCQ==" />
+    </item>
+    <item>
       <title>0.5.0</title>
       <pubDate>Wed, 16 Sep 2026 15:27:53 -0700</pubDate>
       <sparkle:version>938</sparkle:version>
