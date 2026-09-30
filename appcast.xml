@@ -5,6 +5,32 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.6.1</title>
+      <pubDate>Wed, 30 Sep 2026 10:01:55 -0700</pubDate>
+      <sparkle:version>1205</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;release: 0.6.1 — Versions, his Diagram notes, the Schedule's drags, Keep in Cloud Only&lt;/li&gt;
+&lt;li&gt;handoff: studio's outbox pruned to its last four&lt;/li&gt;
+&lt;li&gt;Merge branch 'lane/cloud-0929' into lane/final-0930&lt;/li&gt;
+&lt;li&gt;handoff and STATUS: the Schedule's drags, board order, Add Shot&lt;/li&gt;
+&lt;li&gt;Merge branch 'labs' into lane/sched-0929&lt;/li&gt;
+&lt;li&gt;Schedule drags that land, boards that reorder, Add Shot only on its words&lt;/li&gt;
+&lt;li&gt;handoff and STATUS: a film kept in the cloud only&lt;/li&gt;
+&lt;li&gt;Merge branch 'labs' into lane/cloud-0929&lt;/li&gt;
+&lt;li&gt;Diagram checks and STATUS for the 09-29 notes&lt;/li&gt;
+&lt;li&gt;Projects: the cloud film's tooltip names its verb&lt;/li&gt;
+&lt;li&gt;Merge branch 'labs' into lane/diagram-0929&lt;/li&gt;
+&lt;li&gt;Diagram: his eight notes of 2026-09-29&lt;/li&gt;
+&lt;li&gt;Offload: keep a film in the cloud only, on the Mac and the iPhone&lt;/li&gt;
+&lt;li&gt;release: 0.7.0 — Versions&lt;/li&gt;
+&lt;li&gt;handoff: Versions, and what it asks of new ffi commands&lt;/li&gt;
+&lt;li&gt;Versions: Make a Copy as a New Film&lt;/li&gt;
+&lt;li&gt;STATUS: Versions, and the trap it sets for new ffi commands&lt;/li&gt;
+&lt;li&gt;Versions: the whole film at a moment — saved, looked at, brought back&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.6.1/Shotlister-Studio-0.6.1.zip" length="17067933" type="application/octet-stream" sparkle:edSignature="D9tMVP72VIJRGohSvh/YQAFOF7FFkqKoEh+7n3a2C+lCfphoG/O0fzvTycRcP1Qh6ruZvKkeSf1ecd/3+jp9CQ==" />
+    </item>
+    <item>
       <title>0.6.0</title>
       <pubDate>Tue, 29 Sep 2026 23:12:11 -0700</pubDate>
       <sparkle:version>1187</sparkle:version>
