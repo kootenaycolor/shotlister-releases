@@ -5,6 +5,116 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.6.2</title>
+      <pubDate>Mon, 05 Oct 2026 21:30:44 -0700</pubDate>
+      <sparkle:version>1541</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Portal and iPhone draw every stretch a shot quotes&lt;/li&gt;
+&lt;li&gt;Portal: Frame Rate a line per camera, as text or a number&lt;/li&gt;
+&lt;li&gt;Portal: several cameras and labelled LUTs on the Camera Spec Sheet&lt;/li&gt;
+&lt;li&gt;A shot quotes several stretches of a commercial's script&lt;/li&gt;
+&lt;li&gt;AI connector: shoot names, lens sets, every credit's line&lt;/li&gt;
+&lt;li&gt;Merge branch 'shoot-names-lenses'&lt;/li&gt;
+&lt;li&gt;AI connector reaches the whole project record&lt;/li&gt;
+&lt;li&gt;Portal: shoot names and lens sets&lt;/li&gt;
+&lt;li&gt;Merge branch 'templates'&lt;/li&gt;
+&lt;li&gt;Portal reads Director's Note and Visual Language from the Notion boxes&lt;/li&gt;
+&lt;li&gt;Merge branch 'credits'&lt;/li&gt;
+&lt;li&gt;Merge branch 'name-card'&lt;/li&gt;
+&lt;li&gt;Credits: more than one person per credit, more credits, and what a project hides — film, Studio card and portal&lt;/li&gt;
+&lt;li&gt;Studio: the film's name opens its card — facts, Open in Projects Console, and the other films&lt;/li&gt;
+&lt;li&gt;Home page: sort menu and folding stages, for the owner's shelf only&lt;/li&gt;
+&lt;li&gt;The console's archive door: --archivefilm / --unarchivefilm &lt;page id&gt; archive a film exactly as the Projects screen does&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into film-reads-record&lt;/li&gt;
+&lt;li&gt;Portal plot checks follow names on lights: a shared label keeps each lamp's symbol (Ref 1526)&lt;/li&gt;
+&lt;li&gt;Diagram: a light's Name is its own, not its symbol's (Ref 1526)&lt;/li&gt;
+&lt;li&gt;Studio: a Project button beside the film's name opens its facts card&lt;/li&gt;
+&lt;li&gt;Diagram: connecting lines and dragged-name lines run under the pieces; overhead lamps get heavy edges (Ref 1520)&lt;/li&gt;
+&lt;li&gt;Studio and phone show the record's facts; --recordfacts door for the console&lt;/li&gt;
+&lt;li&gt;Engine: a film takes its facts from the project record (recordfacts)&lt;/li&gt;
+&lt;li&gt;Diagram: lamps hung pointing down, labels shared by any piece, View › Measurements, track as rails, View stays open (Ref 1520)&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into notion-link&lt;/li&gt;
+&lt;li&gt;Notion link, portal side: the logline is the Logline box, and every writer goes through the record&lt;/li&gt;
+&lt;li&gt;Merge main into claude/sleepy-bhaskara-914f75 (the record, console share and portal backups)&lt;/li&gt;
+&lt;li&gt;Diagram: a Note on every piece, frames say size and cloth, amber practicals, no arrow lamps (Ref 1518)&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into one-record&lt;/li&gt;
+&lt;li&gt;Merge branch 'claude/sleepy-bhaskara-914f75': his eight notes on build 1500 (Refs 1515, 1516)&lt;/li&gt;
+&lt;li&gt;Diagram after Back to Paper: his eight notes on build 1500 (Refs 1515, 1516)&lt;/li&gt;
+&lt;li&gt;Merge branch 'record-facts' into one-record&lt;/li&gt;
+&lt;li&gt;refresh.py: typed record facts win on film-less portals too&lt;/li&gt;
+&lt;li&gt;Merge branch 'console-share' into one-record&lt;/li&gt;
+&lt;li&gt;Merge branch 'record-facts' into one-record&lt;/li&gt;
+&lt;li&gt;Console door: Share, What Viewers See and the Library for the Projects Console&lt;/li&gt;
+&lt;li&gt;refresh.py: a fact typed into the project record wins over Notion's words&lt;/li&gt;
+&lt;li&gt;backup/restore-portal.sh: put a film's portal back from kept/ or the iCloud mirror&lt;/li&gt;
+&lt;li&gt;Record facts: one version each, compare-and-set, history; the readout never overwrites them&lt;/li&gt;
+&lt;li&gt;Never wipe a portal: set its files aside before a film is taken off, and back the portal up daily&lt;/li&gt;
+&lt;li&gt;STATUS and studio outbox: Back to Paper, Batch 3 and the hub deploy (Refs 1498, 1504, 1505)&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 3: Set and Plot, Storyboard Frames, Opacity (Refs 1498, 1504, 1505)&lt;/li&gt;
+&lt;li&gt;STATUS and studio outbox: Back to Paper, Batch 2 and the sheet's lettering (Refs 1497, 1511)&lt;/li&gt;
+&lt;li&gt;Diagram sheet sizes (Ref 1511): words and marks in proportion to a shrunk plan, the sun inside its window, a click takes what is drawn&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 fix round 2: shared labels land clear and tie every lamp, a hidden label stays hidden while named, moved names step off other words&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 fix round 1: Name types on the plan, the screen's words at their printed size, one click rule, capitals while typing&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 (Mac B): the sheet on screen, its legend and notes clickable, Grid and Snap in View&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 (Mac A): seven named tools, one bar per kind, Name and Note typed on the plan&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 (portal and connector): one bar per kind, Name and Note typed on the plan, the sheet's legend by the plan, Print is the engine's sheet&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 2 (engine): the sheet built once, Name and Note, one join rule&lt;/li&gt;
+&lt;li&gt;STATUS and studio outbox: Back to Paper, Batch 1 (Ref 1496)&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 1 fix round 1: unfilled set, overhead lamp dashed&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 1 (portal and connector): named lamp palette, three inks, the guide&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 1 (Mac): dots, ink words, named lamp palette&lt;/li&gt;
+&lt;li&gt;STATUS and studio outbox: one exporter (Ref 1501)&lt;/li&gt;
+&lt;li&gt;Per-day export: hand the diagram switches down to the writer (fixes the build)&lt;/li&gt;
+&lt;li&gt;Diagram Back to Paper, Batch 1 (engine): words in ink, three inks, quiet by default&lt;/li&gt;
+&lt;li&gt;Per-day export carries the Diagram page's switches (Shot List, Scale Bar, …)&lt;/li&gt;
+&lt;li&gt;Portal refresh: stop crashing on films with two shoots (Ref 1502)&lt;/li&gt;
+&lt;li&gt;One exporter: the Diagram's Export… opens the Share export on its Diagram page (scene or loose plan); Shot List switch on the diagram page, PNG as a file choice, diagram switches remembered and redraw the preview, no scale bar by default; old diagram exporter retired&lt;/li&gt;
+&lt;li&gt;Design 32: no down arrows on menu buttons (his call), menus look like every other button&lt;/li&gt;
+&lt;li&gt;Design 32: E, F, G decided (practicals red, typing on the plan, no scale bar by default)&lt;/li&gt;
+&lt;li&gt;Design 32: panels and words (one bar at the foot, Name and Note, legend and sheet notes on the sheet), scale as the references do it, his A to D decided, three small calls left&lt;/li&gt;
+&lt;li&gt;Share Label (was Same Lamp): a shared label keeps the lights' name, notes, gels and Off; a note or modifier set on any of its lights is set on all; picking the label shows its Note and Own Label&lt;/li&gt;
+&lt;li&gt;Design 32: pictures built into the page so it opens anywhere&lt;/li&gt;
+&lt;li&gt;Design: Diagram back to paper, an assessment of the lighting plot against Deakins, the Oct 3 mock and Refero, with a mockup of one sheet, two layers and seven tools&lt;/li&gt;
+&lt;li&gt;Plot: a panel lamp starts 2 ft long, a tube 4 ft (Mac and portal)&lt;/li&gt;
+&lt;li&gt;STATUS: plot round two&lt;/li&gt;
+&lt;li&gt;Plot: L and U stairs; a string of lamps (Spread line, bowed, or ring); Sketch plans with no grid, scale, lengths or sun; any line end catches on any line, end, box corner or side; kerbs stop inside buildings and boxes; a group kept as one favorite and put down as one group&lt;/li&gt;
+&lt;li&gt;STATUS: plot one control per job, exteriors, trimmed toolbar&lt;/li&gt;
+&lt;li&gt;Exterior plots: a road is two kerbs cut open at junctions, named along its clear stretch (Street, Alley, Driveway, Path); Building and Area named inside; toolbar trimmed to twelve with More; portal Details folds turning, fading and arranging under More&lt;/li&gt;
+&lt;li&gt;Lamps under one label are one unit: re-marking one re-marks all; portal plot check reads the new rules&lt;/li&gt;
+&lt;li&gt;Lights, one control per job: Type is the colour, a lamp's name is its symbol's, its own words a note; Same Lamp makes one unit; a deleted label lets its lamps go; a dragged label moves alone&lt;/li&gt;
+&lt;li&gt;Labels: tied lamps travel with their label; words are typed in the Details panel, no pop-up box&lt;/li&gt;
+&lt;li&gt;Connector: while dragging, a label-to-lamp line is the tie it will be; a plain connector is as fine as a tie&lt;/li&gt;
+&lt;li&gt;Mac plot toolbar: the Connector sits between Arrow and Ruler&lt;/li&gt;
+&lt;li&gt;Plot: the panel is a box, any piece takes a label, a connector ties a label to lamps&lt;/li&gt;
+&lt;li&gt;Phone: the views bar stays under the top line while the page scrolls&lt;/li&gt;
+&lt;li&gt;STATUS: the lighting plot folded into main, picture style retired, hub live&lt;/li&gt;
+&lt;li&gt;Portal: the lighting plot (marks palette, lights placed by mark, Type, Symbol, Name, Count, Same Lamp, frames by size and colour, Ride Track, Behind Everything, the legend and its colours; no moves or beats) and hub/plot.mjs to check it in a browser&lt;/li&gt;
+&lt;li&gt;Connector: the plot's colours setting, written so it reads&lt;/li&gt;
+&lt;li&gt;Retire the picture style: every plan is a lighting plot&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into labs&lt;/li&gt;
+&lt;li&gt;Diagram: tube lights to scale (a bar is as long as its Length, 4 ft to start, presets and custom, picked along its length); lamp panel reads Type, Symbol, Name, Count, Length, with Same Lamp or a Note&lt;/li&gt;
+&lt;li&gt;Diagram: Label Together becomes Same Lamp (one label, count rises by how many); panel shows lamps and total count&lt;/li&gt;
+&lt;li&gt;Diagram: one job per panel. Details folds to essentials, right-click is verbs (Arrange submenu), More holds only what folded; lamp panel reads Type, Symbol, In Legend, Label, Count; Label Together and Separate Label everywhere&lt;/li&gt;
+&lt;li&gt;Labs: a light's type, Film Light, Practical (amber) or Existing, with Off for practicals and existing; Practicals as a colour category&lt;/li&gt;
+&lt;li&gt;Labs: a shared label's Text box shows what it says&lt;/li&gt;
+&lt;li&gt;Labs: one label for many lamps (share_label, own_label, lines to each), anything can be sent under everything, colours and what they mean in the legend; saved links follow new ids&lt;/li&gt;
+&lt;li&gt;Labs: lay dolly track in the plot (length and sections written on it) and lock a camera to it (Ride Track, Unlock, ride op)&lt;/li&gt;
+&lt;li&gt;Labs: plot colours by category for every plan in a film (View &gt; Colours), stronger frame perspective in the plot&lt;/li&gt;
+&lt;li&gt;Labs: lamps are picked by mark and named later; Light tool places marks; visual mark picker; legend names from the light library; frames: Frame and Colour only, patterns by kind, slope ticks, grip in its own green&lt;/li&gt;
+&lt;li&gt;Labs: the connector sets and reads the plot's legend&lt;/li&gt;
+&lt;li&gt;Labs: the plot's toolbar (14 tools), no moves or beats, and a Legend tab to set each kind of lamp's mark&lt;/li&gt;
+&lt;li&gt;Labs: the lighting plot drawing (thin walls, simple objects, lamp marks by family with a legend, frames by lean, camera view to scale, capitals, no moves)&lt;/li&gt;
+&lt;li&gt;Design: Lighting Plot sheet text in capitals, as the references&lt;/li&gt;
+&lt;li&gt;Design: Lighting Plot notes in a plain clean face&lt;/li&gt;
+&lt;li&gt;Design: Lighting Plot mock adds a legend by lamp, more marks, rulers, camera, frames and props&lt;/li&gt;
+&lt;li&gt;Design: Lighting Plot, the Labs rebuild of the Diagram (keep/cut plan and mock sheet)&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into labs&lt;/li&gt;
+&lt;li&gt;STATUS: the list row press, and why no check could see the bug&lt;/li&gt;
+&lt;li&gt;Schedule and boards: a press on a list row is held until it is a click&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.6.2/Shotlister-Studio-0.6.2.zip" length="18918110" type="application/octet-stream" sparkle:edSignature="WXHHGSahPLeraZpFMW9MFCKVR1sUwud2VOVtmdmnhjYg9TBmQuOs3KDls18+mQwjwecRvUBCqmFEvaPbWT6SAA==" />
+    </item>
+    <item>
       <title>0.6.1</title>
       <pubDate>Wed, 30 Sep 2026 10:01:55 -0700</pubDate>
       <sparkle:version>1205</sparkle:version>
