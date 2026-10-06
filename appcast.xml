@@ -5,6 +5,31 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.7.1</title>
+      <pubDate>Tue, 06 Oct 2026 08:59:31 -0700</pubDate>
+      <sparkle:version>1564</sparkle:version>
+      <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;STATUS: one app on set, stages A, B (phone), D, F landed&lt;/li&gt;
+&lt;li&gt;iPhone: four pins and the Library; Diagrams drawn from the engine&lt;/li&gt;
+&lt;li&gt;iPhone: the whole script on its own tab&lt;/li&gt;
+&lt;li&gt;iPhone: the shot list in one scroll, laid out like the portal&lt;/li&gt;
+&lt;li&gt;STATUS: the iPhone app on TestFlight&lt;/li&gt;
+&lt;li&gt;Design 33: the portal's Library on the phone, and his pins&lt;/li&gt;
+&lt;li&gt;iPhone app: every orientation on iPad, and no encryption question&lt;/li&gt;
+&lt;li&gt;STATUS: design 33, one app on set&lt;/li&gt;
+&lt;li&gt;Design 33: his answers in; Shot Lines switch in the script&lt;/li&gt;
+&lt;li&gt;Design 33: four tabs and More, Diagrams as a section&lt;/li&gt;
+&lt;li&gt;Send to TestFlight: the iPhone app, checked, signed and uploaded&lt;/li&gt;
+&lt;li&gt;Design 33: keeps up with the portal&lt;/li&gt;
+&lt;li&gt;Sort by Shooting Order on the Mac, the portal and the iPhone&lt;/li&gt;
+&lt;li&gt;Design 33: shot list laid out like the portal&lt;/li&gt;
+&lt;li&gt;Design 33: one app on set (mockups only)&lt;/li&gt;
+&lt;li&gt;Phone: stop freezing on iCloud walks and the engine's lock&lt;/li&gt;
+&lt;li&gt;Release 0.7.0&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.7.1/Shotlister-Studio-0.7.1.zip" length="18987278" type="application/octet-stream" sparkle:edSignature="diZVjjkbBa7FHj0fvlYd1xniEdJovMpsdwgULbEdzq1w1cVCjL3w3C+Xz1LtexkST5prL6F9vUPizKx8Qt12CQ==" />
+    </item>
+    <item>
       <title>0.7.0</title>
       <pubDate>Tue, 06 Oct 2026 05:04:19 -0700</pubDate>
       <sparkle:version>1547</sparkle:version>
