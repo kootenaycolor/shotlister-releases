@@ -5,6 +5,20 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.7.0</title>
+      <pubDate>Tue, 06 Oct 2026 05:04:19 -0700</pubDate>
+      <sparkle:version>1547</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Script export: whole script, Video beside Audio, sized to be used&lt;/li&gt;
+&lt;li&gt;Hub: the Studio's mailbox — the phone reaches the Mac without Tailscale&lt;/li&gt;
+&lt;li&gt;STATUS: portal and connector Shooting Order, hub live at 7a56f5d&lt;/li&gt;
+&lt;li&gt;Portal and connector: Shooting Order on the Schedule, order_day&lt;/li&gt;
+&lt;li&gt;Mac Schedule: Shooting Order — a day's shots in the order they are shot, dragged into place&lt;/li&gt;
+&lt;li&gt;Release 0.6.2&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.7.0/Shotlister-Studio-0.7.0.zip" length="18953920" type="application/octet-stream" sparkle:edSignature="ALYiQqRUCARlgoTF2yIPGtlbIPzP46zNrUIMSmqHX6EQFHJe33YlZWToR+/AWNBvX/8id/kMmxUBoEG700nuBw==" />
+    </item>
+    <item>
       <title>0.6.2</title>
       <pubDate>Mon, 05 Oct 2026 21:30:44 -0700</pubDate>
       <sparkle:version>1541</sparkle:version>
