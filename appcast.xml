@@ -5,6 +5,62 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.8.0</title>
+      <pubDate>Wed, 07 Oct 2026 16:40:13 -0700</pubDate>
+      <sparkle:version>1612</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Diagram: shapes and filled drawn objects are set (furniture), not plot&lt;/li&gt;
+&lt;li&gt;The Library in full, and the accent: the film's own colour, read off its record&lt;/li&gt;
+&lt;li&gt;The feel pass, readable on a phone: one page per screen in m/, one image each via shots.sh&lt;/li&gt;
+&lt;li&gt;The feel of what is already there: four screens redrawn, today beside the proposal&lt;/li&gt;
+&lt;li&gt;On set: a mockup of what the phone can be that the portal cannot — the day's front door, a shot in one hand, the lock screen, and the camera&lt;/li&gt;
+&lt;li&gt;Why the iPhone app feels clunky: eleven real screens photographed, the finding is light grey against the portal's black&lt;/li&gt;
+&lt;li&gt;STATUS.md back to its budget: one-app entries merged, old landed list and minor traps moved to status-history&lt;/li&gt;
+&lt;li&gt;Let's Cook notes: shot-out days stay out of Shooting Order and the Schedule, Snap off means free, a Cast tool in Set&lt;/li&gt;
+&lt;li&gt;iPhone: no web view anywhere; a page kept only as HTML arrives as blocks (Ref 1591)&lt;/li&gt;
+&lt;li&gt;iPhone Script tab: Pages | PDF switch, each draft's own PDF in PDFKit with page count and scene jump (Ref 1587)&lt;/li&gt;
+&lt;li&gt;iPhone: everything the portal shows, native (no Open on Portal)&lt;/li&gt;
+&lt;li&gt;iPhone: AV scripts drawn as Video beside Audio, every section in one scroll (Ref 1586)&lt;/li&gt;
+&lt;li&gt;Quick check: the export box lists 15 columns and a film's document is 5 pages, named for their causes&lt;/li&gt;
+&lt;li&gt;STATUS: the one-app second pass on the iPhone&lt;/li&gt;
+&lt;li&gt;iPhone: Shooting Order's Reorder makes every row one line (Ref 1580)&lt;/li&gt;
+&lt;li&gt;iPhone: a diagram's bar, Plot · Set · Legend · Paper (Ref 1579)&lt;/li&gt;
+&lt;li&gt;iPhone: Locations and Schedule in the one-app look (Ref 1582)&lt;/li&gt;
+&lt;li&gt;Portal: orderShot no longer works out the end of a day; a place past the last is the last (Ref 1575)&lt;/li&gt;
+&lt;li&gt;Mac export: the diagram page gets the screen's clock (tz=), and a day's file is that day's diagrams; --daysections door and a quick check (Refs 1576, 1503)&lt;/li&gt;
+&lt;li&gt;iPhone: the one-app mockup's look, on every screen (Ref 1578)&lt;/li&gt;
+&lt;li&gt;⌘X on ringed shots cuts them: copies, then takes them out as one undo (Ref 1573); the carried-within-scene check runs on a fresh copy (Ref 1574)&lt;/li&gt;
+&lt;li&gt;Diagram export: one day's page and the screen's clock; a place past the last slot is the last (Refs 1503, 1576, 1575)&lt;/li&gt;
+&lt;li&gt;Diagram: the screen's and the portal's picture leave room for every fixed-size word, a piece's name as well as the sun's (Ref 1577)&lt;/li&gt;
+&lt;li&gt;STATUS: five diagram bugs, engine side&lt;/li&gt;
+&lt;li&gt;Diagram page: ask it for one day's scenes, or the unscheduled, and an empty day is an empty page (Ref 1503, engine half)&lt;/li&gt;
+&lt;li&gt;Diagram: the sun's clock follows the sun's own day, so screen and paper read the same hour (Ref 1513, engine half)&lt;/li&gt;
+&lt;li&gt;Diagram: the screen's and the portal's picture leave room for the sun's words, not only its disc (Ref 1437)&lt;/li&gt;
+&lt;li&gt;Portal: a shot's Shoot Day is picked from a menu; saved documents named as the apps name exports (Ref 1570)&lt;/li&gt;
+&lt;li&gt;Portal drag check: its four stale lines now say what the portal does (Refs 1399, 1463)&lt;/li&gt;
+&lt;li&gt;Copy, cut, paste and undo agree on every selection (Ref 390): ticked and ringed shots copy and cut as themselves, a pasted block is one undo, multi-line cells and Sheets blocks paste true&lt;/li&gt;
+&lt;li&gt;Sheet legend: upright bar and panel marks drawn at three quarters so they stay inside their row (Ref 1509)&lt;/li&gt;
+&lt;li&gt;Hub battery: the PNG check reads the picture's first bytes in the C locale (grep in UTF-8 never matched 0x89)&lt;/li&gt;
+&lt;li&gt;Portal Script page draws the shots' marks beside the screenplay lines (Ref 1568, portal half)&lt;/li&gt;
+&lt;li&gt;Portal: the rebuild step waits for the new hub and says the hub's own words&lt;/li&gt;
+&lt;li&gt;Deck press finds films in Documents, where they live now&lt;/li&gt;
+&lt;li&gt;Portal: James on Rage's Camera Tests rebuilt as a normal page too&lt;/li&gt;
+&lt;li&gt;Quick check: a taken draft lays out 5 scenes (34A is printed, left unticked), named in full&lt;/li&gt;
+&lt;li&gt;Mac Whole Script window draws the shots' marks beside the lines (Ref 1568, Mac half)&lt;/li&gt;
+&lt;li&gt;Publishing sends a deck's pictures by key, not by file name (Ref 1561)&lt;/li&gt;
+&lt;li&gt;Portal: Video on written pages, published boards to the phone, hand-made pages rebuilt&lt;/li&gt;
+&lt;li&gt;Exports print his own columns and name themselves; a shot's day is picked, not sealed&lt;/li&gt;
+&lt;li&gt;STATUS: a shot holds lines of a film's screenplay (Ref 1553)&lt;/li&gt;
+&lt;li&gt;A shot holds lines of a film's screenplay (Ref 1553)&lt;/li&gt;
+&lt;li&gt;iPhone: Shooting Order laid out like the new shot list (day bands, presented shots with their scene, List and Storyboard)&lt;/li&gt;
+&lt;li&gt;iPhone: the Library and pins open pages, decks and boards natively; Look shelf as the design's Look screen&lt;/li&gt;
+&lt;li&gt;STATUS: Stage E landed, what wiring it needs&lt;/li&gt;
+&lt;li&gt;iPhone: Look drawn natively, written pages, decks, boards (Stage E)&lt;/li&gt;
+&lt;li&gt;iPhone: a private line to the portal, kept on the phone (Stage C)&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.8.0/Shotlister-Studio-0.8.0.zip" length="19082219" type="application/octet-stream" sparkle:edSignature="DoxGw+wE1iAuGEIlOWTLKDKonSzaZwYJgqJQqZntWPOM4OFci4itT8raUAEabXNBiYY7qn73NHH/VKJ/djUwAA==" />
+    </item>
+    <item>
       <title>0.7.1</title>
       <pubDate>Tue, 06 Oct 2026 08:59:31 -0700</pubDate>
       <sparkle:version>1564</sparkle:version>
