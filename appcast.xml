@@ -5,6 +5,123 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.9.0</title>
+      <pubDate>Sun, 11 Oct 2026 09:06:24 -0700</pubDate>
+      <sparkle:version>1721</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Merge portal-categories: one list for sidebar headings and Library categories, owner screens follow the new layout&lt;/li&gt;
+&lt;li&gt;Merge portal-web into portal-categories: the owner's web screens follow the new layout&lt;/li&gt;
+&lt;li&gt;Portal owner screens follow the approved layout: Pages in the Library, Share is Access alone, the sidebar edited in place&lt;/li&gt;
+&lt;li&gt;iPhone Library: Move To on a long press of a Look shelf card&lt;/li&gt;
+&lt;li&gt;iPhone: each film keeps its own tab bar; Home Screen grouped by stage like the Projects Console&lt;/li&gt;
+&lt;li&gt;Table: select, move and paste like a sheet&lt;/li&gt;
+&lt;li&gt;Merge main into portal-categories&lt;/li&gt;
+&lt;li&gt;STATUS: the hub keeps Notion in step (stage 2 handed over)&lt;/li&gt;
+&lt;li&gt;Portal server checks follow the categories rule; the arrange tool says what took and what it dropped&lt;/li&gt;
+&lt;li&gt;Portal server: the sidebar's headings are the Library's categories (one list); the order is a plain page order&lt;/li&gt;
+&lt;li&gt;STATUS: stage 2 built, switch still on the Mac&lt;/li&gt;
+&lt;li&gt;Hub: the Notion link, ported from notionsync.py, on the worker's own minute, behind the one switch&lt;/li&gt;
+&lt;li&gt;Hub: /console/studio/owner, who keeps Notion and the records in step (mac until switched)&lt;/li&gt;
+&lt;li&gt;STATUS: Charisma's Outline follows its Google Doc from the portal&lt;/li&gt;
+&lt;li&gt;Merge main into doc-follow&lt;/li&gt;
+&lt;li&gt;Portal: a page follows its Google Doc itself — Follow Google Doc on the page's menu&lt;/li&gt;
+&lt;li&gt;iPhone Library: the film's own categories, Move To on every row, Categories to rename, add, reorder, remove&lt;/li&gt;
+&lt;li&gt;STATUS: Projects Console off the Mac, stage 1 live&lt;/li&gt;
+&lt;li&gt;Hub answers the project page, the Next box, credits and the portal's switches itself&lt;/li&gt;
+&lt;li&gt;Library categories his to name: rename, add, reorder, remove; Move To from the apps&lt;/li&gt;
+&lt;li&gt;Hub: the Studio snapshot says which calls the hub answers itself (cloud), so the phone keeps those buttons live with the Mac asleep&lt;/li&gt;
+&lt;li&gt;STATUS: stage 1a of Projects Console off the Mac is live&lt;/li&gt;
+&lt;li&gt;STATUS: Projects Console off the Mac, stage 1 built&lt;/li&gt;
+&lt;li&gt;Hub answers the phone's crew asks: directory, look-alikes, add person or company, on/off a project and its shoots, the Crew view&lt;/li&gt;
+&lt;li&gt;Hub answers the phone's Notion edits itself: stage, website, shoots, dates, spec sheets, lenses, LUTs&lt;/li&gt;
+&lt;li&gt;iPhone: the Visual Bible on the Look tab; no In the Bar marker in the Library&lt;/li&gt;
+&lt;li&gt;Widgets: Shoot Day counts down to the day; round shortcuts badge the page they open&lt;/li&gt;
+&lt;li&gt;Portal: rename any page from the Console — his own, Notion's and the built-in ones&lt;/li&gt;
+&lt;li&gt;STATUS: Media per film live — Mac 1691, TestFlight 0.8.0 (23), hub 2f7c03a&lt;/li&gt;
+&lt;li&gt;Media per film: every picture, where it is used, delete for real (SL-1687)&lt;/li&gt;
+&lt;li&gt;STATUS: sidebar editing reaches the iPhone Console&lt;/li&gt;
+&lt;li&gt;Portal: the console's act door takes JSON too, for the iPhone Console&lt;/li&gt;
+&lt;li&gt;STATUS: the Console edits the portal's sidebar&lt;/li&gt;
+&lt;li&gt;Portal: the console edits the sidebar through the page's own routes&lt;/li&gt;
+&lt;li&gt;Mockup: Media per film · Mac film menu, iPhone Film Settings, Delete Unused, kept names&lt;/li&gt;
+&lt;li&gt;STATUS: iPhone Diagrams on the Mac's sheet&lt;/li&gt;
+&lt;li&gt;iPhone Diagrams: the Mac's sheet on its desk, always; Set · Plot in the Mac's order&lt;/li&gt;
+&lt;li&gt;iPhone widgets: Badge, Film Colour and Eyebrow looks; Shoot Day and Next Shots&lt;/li&gt;
+&lt;li&gt;Mockup: widget directions A Badge, B Film colour, C Eyebrow, D with information&lt;/li&gt;
+&lt;li&gt;iPhone widgets: a safe zone no text enters, in every size&lt;/li&gt;
+&lt;li&gt;iPhone: lock screen shortcuts wear the film's icon and name the page; App Settings in the film menu&lt;/li&gt;
+&lt;li&gt;iPhone: Upload Photos, Next Shoot Day, and Control Center buttons&lt;/li&gt;
+&lt;li&gt;iPhone: Shortcuts actions, Open Film and Open Shortcut, for the Action button&lt;/li&gt;
+&lt;li&gt;iPhone: a long lens wraps inside its pill instead of running over the next field&lt;/li&gt;
+&lt;li&gt;iPhone catch-up: scene filters, Cameras page, colours, master shots, Versions&lt;/li&gt;
+&lt;li&gt;iPhone: lock screen widgets, set to a film and page in Settings&lt;/li&gt;
+&lt;li&gt;iPhone reads the Mac's lists: every aspect ratio, ready-made columns, and small gaps closed&lt;/li&gt;
+&lt;li&gt;STATUS: old portal links stop at private or deleted pages, live at 22183dd&lt;/li&gt;
+&lt;li&gt;Portal: an old page link stops at a private or deleted page&lt;/li&gt;
+&lt;li&gt;Phone outbox: one home for every control; STATUS: TestFlight 0.8.0 (18)&lt;/li&gt;
+&lt;li&gt;iPhone: one home for every control; Play Clips automatically or on tap&lt;/li&gt;
+&lt;li&gt;STATUS: portal rename moves the address, live at f60d9b7&lt;/li&gt;
+&lt;li&gt;Portal: renaming a page moves its address to the new name; the old one forwards&lt;/li&gt;
+&lt;li&gt;Shotlister opens a film from a shotlister:// link, and the iPhone opens its project in Projects Console&lt;/li&gt;
+&lt;li&gt;STATUS: INT/EXT means both, live at hub 02d43a4&lt;/li&gt;
+&lt;li&gt;Portal: Interior/Exterior filter; a both-ways scene is under INT, EXT and INT/EXT&lt;/li&gt;
+&lt;li&gt;Design 42: iPhone audit of every setting and command, and one home for each&lt;/li&gt;
+&lt;li&gt;INT/EXT: I/E passes an import's must-contain INT/EXT rule; connector says what INT/EXT means&lt;/li&gt;
+&lt;li&gt;iPhone: a shot opens in the new look everywhere, not the old shot page&lt;/li&gt;
+&lt;li&gt;INT/EXT: read every way a script writes both (I/E, INT./EXT., EXT./INT.), count it as inside and outside in filters&lt;/li&gt;
+&lt;li&gt;STATUS: iPhone Sort and Filter, and the facet trap&lt;/li&gt;
+&lt;li&gt;iPhone Sort and Filter: filter by any list column, emptied scenes leave the list, the Scenes sheet carries Sort and Filter&lt;/li&gt;
+&lt;li&gt;iPhone: video plays when opened, scrubs live and stops lagging; Editing's picture is a thumbnail that changes the media&lt;/li&gt;
+&lt;li&gt;iPhone Editing: every column to fill in, shown in the Columns tab or not&lt;/li&gt;
+&lt;li&gt;iPhone: one Editing, a small Edit, and Editing in the new look&lt;/li&gt;
+&lt;li&gt;iPhone shot list: picture beside the words, the Mac's pills, details open in place, picture opens the viewer&lt;/li&gt;
+&lt;li&gt;STATUS: the portal's Diagram is live at 66b8aa7&lt;/li&gt;
+&lt;li&gt;STATUS: portal live at 66b8aa7&lt;/li&gt;
+&lt;li&gt;Portal Diagram: View, Sun and North, Colours, Layers, Shots, Favorites as the Mac's&lt;/li&gt;
+&lt;li&gt;STATUS: portal clip controls&lt;/li&gt;
+&lt;li&gt;Portal shot list: clips get play/pause and a scrub bar, and stop restarting every 20 seconds&lt;/li&gt;
+&lt;li&gt;Portal Diagram: the Mac's bar and Details, and a camera's whole shot&lt;/li&gt;
+&lt;li&gt;Portal Diagram: the Mac's menu and keys&lt;/li&gt;
+&lt;li&gt;Portal Diagram: frames on the plan move and resize, the compass, Trace as the Mac's, Set Scale (Ref 1517)&lt;/li&gt;
+&lt;li&gt;Portal Diagram catches up with the Mac's, batches 1 and 2&lt;/li&gt;
+&lt;li&gt;Six ways the shot list page could draw its frames and shots, mocked up&lt;/li&gt;
+&lt;li&gt;Eleven shot list ideas, mocked up as iPhone screens from Not For Sale&lt;/li&gt;
+&lt;li&gt;A picture on a plan must be one the film holds&lt;/li&gt;
+&lt;li&gt;iPhone polish: Title Case on buttons and menus, quiet empty frames, frames on the words' edge&lt;/li&gt;
+&lt;li&gt;STATUS: portal pages in the app and the spec sheet kit are live&lt;/li&gt;
+&lt;li&gt;Merge the Camera Spec Sheet kit link (Ref 1627)&lt;/li&gt;
+&lt;li&gt;STATUS: portal pages inside the iPhone app on trial; spec sheet kit branch&lt;/li&gt;
+&lt;li&gt;iPhone trial: the portal's own pages inside the app (Ref 1625)&lt;/li&gt;
+&lt;li&gt;The Camera Spec Sheet feeds Shotlister, and back (Ref 1627)&lt;/li&gt;
+&lt;li&gt;STATUS: Editing mode on TestFlight 0.8.0 (11), and two traps&lt;/li&gt;
+&lt;li&gt;iPhone: Editing mode, every shot typed in place, scrolling down; typed text on a shot's page saves again&lt;/li&gt;
+&lt;li&gt;STATUS: shot marks on shoot days; portal, Mac and iPhone all carry the square pictures&lt;/li&gt;
+&lt;li&gt;iPhone: the Shot marks keep off the list except on a shoot day&lt;/li&gt;
+&lt;li&gt;Editing mode round two: one shot at a time, typed in place, side to side recommended (Ref 1615)&lt;/li&gt;
+&lt;li&gt;Editing mode mockups as one page he can open on his phone (Ref 1615)&lt;/li&gt;
+&lt;li&gt;STATUS: Picture Size, and no rounded pictures&lt;/li&gt;
+&lt;li&gt;Picture Size on the iPhone shot list, and no picture is rounded anywhere&lt;/li&gt;
+&lt;li&gt;Editing mode explored: three directions on Not For Sale's real shots, B recommended (Ref 1615)&lt;/li&gt;
+&lt;li&gt;STATUS: the iPhone look pass as it now stands, on TestFlight 0.8.0 (9)&lt;/li&gt;
+&lt;li&gt;iPhone: an aspect picker on the shot list, and the gap above a scene header&lt;/li&gt;
+&lt;li&gt;Camera spec sheet: a column per camera, settings they share full width&lt;/li&gt;
+&lt;li&gt;iPhone: the tab bar back, square pictures, and five faults he found&lt;/li&gt;
+&lt;li&gt;Front desk: what the overnight sweep put in, and for whom&lt;/li&gt;
+&lt;li&gt;Ignore the folder a wrangler misfire left in decks/tools&lt;/li&gt;
+&lt;li&gt;iPhone feel pass: the four before-and-afters it was judged on&lt;/li&gt;
+&lt;li&gt;iPhone: the app answers to a shotlister:// link&lt;/li&gt;
+&lt;li&gt;Layers names a lamp and a frame, not their notes&lt;/li&gt;
+&lt;li&gt;iPhone: a UI test target, and the two faults it found&lt;/li&gt;
+&lt;li&gt;iPhone: the bar is the portal's shape, one pill naming the place&lt;/li&gt;
+&lt;li&gt;iPhone: the Library, Look, the Schedule and Script finish the feel pass&lt;/li&gt;
+&lt;li&gt;iPhone shot page: size, lens and move large, the rest a quiet table, Shot in the bar&lt;/li&gt;
+&lt;li&gt;iPhone: Shotlister's own dark, the film's colour as the tint, and the frame as the shot row&lt;/li&gt;
+&lt;li&gt;Not full black: the dark is the Mac app's own surface, 0E0E11&lt;/li&gt;
+&lt;li&gt;Release 0.8.0&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.9.0/Shotlister-Studio-0.9.0.zip" length="19322923" type="application/octet-stream" sparkle:edSignature="gkQJsy0DPA681rY/ZhBxU/SV1m1VpnqZNxKNb0z+WbDfxKgXrJsNwCbH1qOcRcnRDNGHHuziwrnLsQWx7ufOCQ==" />
+    </item>
+    <item>
       <title>0.8.0</title>
       <pubDate>Wed, 07 Oct 2026 16:40:13 -0700</pubDate>
       <sparkle:version>1612</sparkle:version>
