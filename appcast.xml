@@ -5,6 +5,24 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.10.0</title>
+      <pubDate>Sat, 17 Oct 2026 12:38:01 -0700</pubDate>
+      <sparkle:version>2191</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Export redesign: choose the order, filter and days; one file or a file per day; presets that sync. Also on iPhone.&lt;/li&gt;
+&lt;li&gt;Auto layout for the table, with Size and paper (Best Fit, Landscape, Portrait), whole words and no cut-off text. Export no longer freezes when a slider moves.&lt;/li&gt;
+&lt;li&gt;Studio settings sorted: Columns back on the shot list bar, the gear gives quick jumps, Project Settings in three groups with the Spec Sheet together.&lt;/li&gt;
+&lt;li&gt;Mods and Edit Reference: a switch for each mod in Project Settings. Edit Reference joins a clip, stills or animatic to a run of shots.&lt;/li&gt;
+&lt;li&gt;Diagram: labels are what you type, and you can draw on photos (arrows, lines, boxes, words). The iPhone Diagram can now draw and edit plans too.&lt;/li&gt;
+&lt;li&gt;Commercial sections now have a light colour wash instead of a side bar.&lt;/li&gt;
+&lt;li&gt;One Look: Studio on the Mac and iPhone use the shared sizes, colours and tags.&lt;/li&gt;
+&lt;li&gt;The camera spec sheet is also kept as a Google Sheet in the project's Drive; frame guide files stack on the camera page.&lt;/li&gt;
+&lt;li&gt;Drive copies: each shot's picture (Print Frame) and trimmed clip go to Drive.&lt;/li&gt;
+&lt;li&gt;Closed and deleted projects stay out of the project list.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.10.0/Shotlister-Studio-0.10.0.zip" length="21273616" type="application/octet-stream" sparkle:edSignature="psH+kslm7g84CYaeMbyC5WMRU2098zEmzxTifFQqONEp0TFOkxMldKauumAI+bUxL8UbnEVd7xq98qOz1lfeDw==" />
+    </item>
+    <item>
       <title>0.9.0</title>
       <pubDate>Sun, 11 Oct 2026 09:06:24 -0700</pubDate>
       <sparkle:version>1721</sparkle:version>
