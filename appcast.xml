@@ -5,6 +5,22 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.11.0</title>
+      <pubDate>Sat, 17 Oct 2026 17:34:04 -0700</pubDate>
+      <sparkle:version>2251</sparkle:version>
+      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Edit Reference, take two: one bracket across the scene headings, and a player that just plays (scrubber, play and pause, close). The gold play button opens the player on the first press.&lt;/li&gt;
+&lt;li&gt;Doors: Swing, Double, Sliding, Center and Pocket, with a Style menu on the Mac, iPhone and portal. Cast has a new icon with a head and a nose.&lt;/li&gt;
+&lt;li&gt;Diagram Details panel stays open and follows what you pick, on Mac and iPhone. Lamps grow when you size them.&lt;/li&gt;
+&lt;li&gt;Several diagrams per scene: tabs on the Mac, pills on the iPhone, tabs on the portal, one titled sheet each on paper. Hide Empty on the scene list.&lt;/li&gt;
+&lt;li&gt;Diagram labels are free text, on several lines, on every kind of piece. Draw on Photo is refined. Send to Set and Plot, colour several pieces at once, and cast colours run the whole project in billing order.&lt;/li&gt;
+&lt;li&gt;Export Auto: the sliders show only on Manual, and the iPhone preview follows Size, paper and columns.&lt;/li&gt;
+&lt;li&gt;Room scans: a scanned room comes in joined and closed, with walls at their drawn thickness and doors and furniture from the scan.&lt;/li&gt;
+&lt;li&gt;Documents: a Drive file you switch on in Projects Console shows on the portal.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.11.0/Shotlister-Studio-0.11.0.zip" length="21520550" type="application/octet-stream" sparkle:edSignature="qG3byG+cAclN8ZEkMqI+ZIc5E1I8Wzdeo5KhaTu6asJSGRLdQcok5jVDEULIbzRjihsV6Lg6DUWl9KoJ/IvADg==" />
+    </item>
+    <item>
       <title>0.10.0</title>
       <pubDate>Sat, 17 Oct 2026 12:38:01 -0700</pubDate>
       <sparkle:version>2191</sparkle:version>
