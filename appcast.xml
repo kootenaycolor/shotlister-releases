@@ -5,6 +5,46 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.12.1</title>
+      <pubDate>Wed, 21 Oct 2026 00:22:31 -0700</pubDate>
+      <sparkle:version>2298</sparkle:version>
+      <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Document view: clips wait on the page (no more everything playing at once) and show the shot's Print Frame&lt;/li&gt;
+&lt;li&gt;Phone Creative tab: the Visual Bible shows as one wide cover, not an eight cell grid&lt;/li&gt;
+&lt;li&gt;Each shoot has its own spec sheet: an edit to one shoot never changes another&lt;/li&gt;
+&lt;li&gt;Notion: the Complete stage is written by its option id (the API can't rename an option)&lt;/li&gt;
+&lt;li&gt;Connector: set_stage asks first before an Archived project moves back to Development or Active&lt;/li&gt;
+&lt;li&gt;Released is Complete; crew and documents wait for Notion; waits stay in order&lt;/li&gt;
+&lt;li&gt;Portal backup: a file gone between listing and copying (a short-lived lease) is not a failure (audit B2)&lt;/li&gt;
+&lt;li&gt;Merge main into fixes&lt;/li&gt;
+&lt;li&gt;Hub: Notion out of reach never drops a wait or skips a rename's title (audit batch 2)&lt;/li&gt;
+&lt;li&gt;Merge main into shootkeep&lt;/li&gt;
+&lt;li&gt;Project page on the server says notion_waits when a Notion part was not read, so the console keeps its last whole page&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into addshoot3&lt;/li&gt;
+&lt;li&gt;Add Shoot never changes a project's stage: a project in Post stays in Post (it was put back to Active); the plan says so; its Shoot Dates still move to the new shoot. One check in newshoot.mjs per recorded Post case&lt;/li&gt;
+&lt;li&gt;Merge main into mcp-full2&lt;/li&gt;
+&lt;li&gt;Merge main into shootkeep&lt;/li&gt;
+&lt;li&gt;Merge main into crewroles&lt;/li&gt;
+&lt;li&gt;Merge main into mcp-full2&lt;/li&gt;
+&lt;li&gt;Connector does what Projects Console does: big moves, stage pop-ups, Close/Reopen, New Project, portal switches, Replace Link, his standards, Activity, Mac jobs, agents, Link Edits Undo, Notion docs on portal; whatever moves, deletes, hides, publishes or changes who sees asks his OK first (one confirm token); every list in tools/list typed&lt;/li&gt;
+&lt;li&gt;Merge main into shootkeep&lt;/li&gt;
+&lt;li&gt;Shoots stay: a Notion outage never takes a shoot off the record (stale Shoots/Crew rows are not copied over it, a record shoot Notion did not list is kept and marked), and the project page and list show the record's shoots when Notion cannot be read&lt;/li&gt;
+&lt;li&gt;Merge main into crewroles&lt;/li&gt;
+&lt;li&gt;A role on one project is the record's alone: crew_edit's roles go to crew_roles (and the crew copy's roles/roles_here), never Notion's Crew role, and need no Notion; the project page carries usual, role_here, trade_all&lt;/li&gt;
+&lt;li&gt;Merge branch 'main' into addshoot2&lt;/li&gt;
+&lt;li&gt;A Notion outage never blocks Post or Archive on the server: the record and Drive do their parts, Notion's shoot row waits on s/notion-waits.json (done by the minute's look), one quiet line, never 'error 401'&lt;/li&gt;
+&lt;li&gt;Add Shoot from the console keeps going when Notion is down: the sheet, the steps and the run read the project's record, the Drive folders are made, the Notion row waits on the record (shoots_waiting), the same path as the connector's add_shoot; 7 more checks in shoottools.mjs&lt;/li&gt;
+&lt;li&gt;Add Shoot checks: newshoot.mjs compares the Mac's run one step at a time and side by side (writes in any order, shoot rows in order, crew before the shoot); project dates wait for the new rows so a refusing Notion still hands the ask over; shoot rows made in order; both batteries join checks.sh&lt;/li&gt;
+&lt;li&gt;Connector: add_shoot (two steps, Notion-down queue), set_shoot_crew (per-project roles), shoots; descriptions say shoots and crew live in the record&lt;/li&gt;
+&lt;li&gt;Add Shoot: the asker starts the held run at once with POST asks/&lt;id&gt;/start (the minute stays as the way back); the Durable Object start is dropped, this account's placement hint refuses it&lt;/li&gt;
+&lt;li&gt;Merge main into addshoot&lt;/li&gt;
+&lt;li&gt;Add Shoot on the server: steps run side by side, an alarm starts the run at once instead of at the next minute, progress rides on the ask&lt;/li&gt;
+&lt;li&gt;MCP consent screen: who is asking, what it can do, who is signed in, Allow and a quiet Cancel; errors say the next step; light, dark and phone. Same fields posted, nothing checked or stored differs&lt;/li&gt;
+&lt;li&gt;Close Project / Released: the shelf switch is fixed on (its three-day trial from 2026-10-16 ran clean); turning it off is refused like the others&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.12.1/Shotlister-Studio-0.12.1.zip" length="21541814" type="application/octet-stream" sparkle:edSignature="EfLTwkPl5XJq9JC+2H+6BY8ywxSGbUwROUgTEYqEt7c8hu6GLlA2X4yEZTrl86VzFKItX5UPIVrNdvVyGDVHDg==" />
+    </item>
+    <item>
       <title>0.12.0</title>
       <pubDate>Sun, 18 Oct 2026 00:48:17 -0700</pubDate>
       <sparkle:version>2264</sparkle:version>
