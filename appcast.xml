@@ -5,6 +5,18 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.12.2</title>
+      <pubDate>Wed, 21 Oct 2026 17:32:26 -0700</pubDate>
+      <sparkle:version>2306</sparkle:version>
+      <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Document view: only pages near the window are drawn in full, so scrolling stops redrawing the whole document; new text boxes report the right height first time&lt;/li&gt;
+&lt;li&gt;Merge main into pagelinks&lt;/li&gt;
+&lt;li&gt;Portal pages: each page's public link, from the library door, the phone door and the connector's pages&lt;/li&gt;
+&lt;li&gt;Big moves: the switch is fixed on (trial ran clean), a move can no longer be turned off or down to scratch&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.12.2/Shotlister-Studio-0.12.2.zip" length="21572489" type="application/octet-stream" sparkle:edSignature="n6qU6M3CPUy73EUPQ+gccOmnHywtkl02oXY3yKhHlcgOeazFIxEc1mAwmWgM7SveMD0XXzBvsDWAxnEV42gADA==" />
+    </item>
+    <item>
       <title>0.12.1</title>
       <pubDate>Wed, 21 Oct 2026 00:22:31 -0700</pubDate>
       <sparkle:version>2298</sparkle:version>
