@@ -5,6 +5,19 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.13.0</title>
+      <pubDate>Thu, 22 Oct 2026 03:30:17 -0700</pubDate>
+      <sparkle:version>2363</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Script revisions: a new draft of the script opens a review sheet. Scenes come in as new, changed or removed, shots keep their answers, and Remove Draft undoes it.&lt;/li&gt;
+&lt;li&gt;Completed replaces Shot on the shot list, in the filters and on the iPhone swipe.&lt;/li&gt;
+&lt;li&gt;Shoot days stay in step when a project has several shoots in the calendar.&lt;/li&gt;
+&lt;li&gt;Diagrams: plain label lines, one Label for every piece, Ground and Overhead for lamps, a lamp keeps its own color, lines open a gap where they cross, setups, and real fixtures.&lt;/li&gt;
+&lt;li&gt;The Diagram frame bar is Label, Size, Material and Angle.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.13.0/Shotlister-Studio-0.13.0.zip" length="22007343" type="application/octet-stream" sparkle:edSignature="YXQ0VefJvU8mPqLWRDIvyFWmWCA+/E6Cyi4iqdF2vZD05ejpamRrpNbS1bHo0dhgGWiDQ0jfBRRD8OaZyCsDCg==" />
+    </item>
+    <item>
       <title>0.12.2</title>
       <pubDate>Wed, 21 Oct 2026 17:32:26 -0700</pubDate>
       <sparkle:version>2306</sparkle:version>
