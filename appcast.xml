@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.13.2</title>
+      <pubDate>Fri, 23 Oct 2026 12:18:37 -0700</pubDate>
+      <sparkle:version>2404</sparkle:version>
+      <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Cast page in Project Settings: colour, billing, rename, Combine (with undo) and Split Out.&lt;/li&gt;&lt;li&gt;Spec sheet: the "answered 200" message is gone, and every Spec Sheet page has an Off / Ask / Sync switch.&lt;/li&gt;&lt;li&gt;Diagram: Backspace deletes a piece you just placed.&lt;/li&gt;&lt;li&gt;Script import: revision stars no longer end up in character names.&lt;/li&gt;&lt;li&gt;A project's title now syncs with Notion both ways.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.13.2/Shotlister-Studio-0.13.2.zip" length="22288143" type="application/octet-stream" sparkle:edSignature="G6lQisnHw4hcVNFfarG+g6msb1mZU9cyoVeRrHNGgBpTMjClLJIwhfhXsCFdGlHeYOo4UnaffZF9APzMENXIDQ==" />
+    </item>
+    <item>
       <title>0.13.1</title>
       <pubDate>Thu, 22 Oct 2026 19:23:44 -0700</pubDate>
       <sparkle:version>2387</sparkle:version>
