@@ -5,6 +5,15 @@
     <description>Shot lists, storyboards and locations.</description>
     <language>en</language>
     <item>
+      <title>0.13.1</title>
+      <pubDate>Thu, 22 Oct 2026 19:23:44 -0700</pubDate>
+      <sparkle:version>2387</sparkle:version>
+      <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;ul&gt;&lt;li&gt;Cast on the Plan: an outline person mark, one colour per character, a Cast tab, and drag a name onto the plan.&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/kootenaycolor/shotlister-releases/releases/download/v0.13.1/Shotlister-Studio-0.13.1.zip" length="22083520" type="application/octet-stream" sparkle:edSignature="zN/OHCbDoFtXGqLlxt8f6iDU1wAOan6OCPTTgYd/sd57sAZzR7kgau78amBZTlK0MaFQaL6Nz9qIPSmd1VeoBg==" />
+    </item>
+    <item>
       <title>0.13.0</title>
       <pubDate>Thu, 22 Oct 2026 03:30:17 -0700</pubDate>
       <sparkle:version>2363</sparkle:version>
